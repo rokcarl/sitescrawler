@@ -12,7 +12,9 @@ The result will be output to `data` directory.
 
 ## Possible improvements
 
-* Make sure the company name is correct and properly capitalized.
+* Make sure the company name is correct by contacting another companies listing
+  data source.
+* Generalize the parser into a carousel parser.
 * Extend the parsing to companies from other subpages like https://scale.com/customers
   and https://www.deel.com/case-studies.
 
