@@ -1,0 +1,7 @@
+sites:
+  - name: Scale
+    slug: scale
+  - name: Deel
+    slug: deel
+  - name: Webflow
+    slug: webflow
